@@ -7,4 +7,8 @@ This is part of the project/contract I undertook for Kovey App Ltd. The live pro
 
 WordPilot Dashboard
 
-<img src="./assets/screenshot-1.png" />
+<img src="./assets/screenshot-6.png" />
+<img src="./assets/screenshot-2.png" />
+<img src="./assets/screenshot-3.png" />
+<img src="./assets/screenshot-4.png" />
+<img src="./assets/screenshot-7.png" />
